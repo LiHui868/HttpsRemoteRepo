@@ -1,0 +1,15 @@
+/Users/lihui/Week4/bin/Debug/net5.0/Week4.deps.json
+/Users/lihui/Week4/bin/Debug/net5.0/Week4.runtimeconfig.json
+/Users/lihui/Week4/bin/Debug/net5.0/Week4.runtimeconfig.dev.json
+/Users/lihui/Week4/bin/Debug/net5.0/Week4.dll
+/Users/lihui/Week4/bin/Debug/net5.0/ref/Week4.dll
+/Users/lihui/Week4/bin/Debug/net5.0/Week4.pdb
+/Users/lihui/Week4/obj/Debug/net5.0/Week4.csprojAssemblyReference.cache
+/Users/lihui/Week4/obj/Debug/net5.0/Week4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lihui/Week4/obj/Debug/net5.0/Week4.AssemblyInfoInputs.cache
+/Users/lihui/Week4/obj/Debug/net5.0/Week4.AssemblyInfo.cs
+/Users/lihui/Week4/obj/Debug/net5.0/Week4.csproj.CoreCompileInputs.cache
+/Users/lihui/Week4/obj/Debug/net5.0/Week4.dll
+/Users/lihui/Week4/obj/Debug/net5.0/ref/Week4.dll
+/Users/lihui/Week4/obj/Debug/net5.0/Week4.pdb
+/Users/lihui/Week4/obj/Debug/net5.0/Week4.genruntimeconfig.cache
